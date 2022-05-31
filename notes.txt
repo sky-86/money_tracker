@@ -1,0 +1,24 @@
+----THE IDEA----
+An app that helps you manage your money.
+
+1. You should be able to label and organize your transactions
+    as necessary and unnecessary.
+
+2. Displays money you could've had if you had not spent any money.
+
+
+----AGILE----
+Spikes:
+1. JavaScript/REACT
+2. Rust/WASM
+
+Sprints:
+1- Setup PLAID API, load and display transactions
+1- Create a database that saves transactions and their label
+1- Create a simple login page
+1- A simple interface that interacts with your transactions
+
+2- Create a app wide style and clean up interface
+2- Create chart that displays money saved/lost
+
+3- Port web app to mobile
