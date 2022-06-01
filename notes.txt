@@ -4,9 +4,11 @@ An app that helps you manage your money.
 1. You should be able to label and organize your transactions
     as necessary and unnecessary.
 
-2. Divide total savings into different time stamps.
+2. User enters in monthly income, and mandatory expenses.
 
-3. Displays money you could've had if you had not spent any money.
+3. Divide total savings into different time stamps.
+
+4. Displays money you could've had if you had not spent any money.
 
 
 ----AGILE----
